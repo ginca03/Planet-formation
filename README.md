@@ -67,5 +67,5 @@ If you want to set the log scale on the x-axis of the "disk-height vs alpha" gra
 **Giancarlo Venturato**
 
 ## References
-For a detailed explanation of the methodology and findings, refer to the [project report]([https://github.com/ginca03/Planet-formation/blob/main/docs/06033934_Project3_Report.pdf)).
+For a detailed explanation of the methodology and findings, refer to the [project report](https://github.com/ginca03/Planet-formation/blob/main/docs/06033934_Project3_Report.pdf).
 
