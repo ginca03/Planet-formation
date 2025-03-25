@@ -1,4 +1,4 @@
-# Planet Formation Simulation
+# Planet Formation Simulation - Computational physics project Imperial College London
 
 ## Overview
 This project investigates planet formation within protoplanetary disks using the **streaming instability** model. It explores how dust and gas interactions, turbulence, and particle growth contribute to planetesimal formation. The simulation implements numerical methods to ensure stability and minimize numerical diffusion, producing results consistent with astrophysical observations.
